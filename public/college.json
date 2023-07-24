@@ -1,0 +1,115 @@
+[
+    {
+        "collegeName": "Harmony University",
+        "collegeImage": "https://example.com/harmony_university_image",
+        "collegeRating": 4.5,
+        "admissionDate": "Fall 2023",
+        "numberOfResearch": 120,
+        "events": [
+            "Orientation Day",
+            "Career Fair",
+            "Annual Cultural Fest",
+            "Research Symposium"
+        ],
+        "sportsFacilities": [
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Swimming"
+        ]
+    },
+    {
+        "collegeName": "Stellar College",
+        "collegeImage": "https://example.com/stellar_college_image",
+        "collegeRating": 4.8,
+        "admissionDate": "Spring 2024",
+        "numberOfResearch": 90,
+        "events": [
+            "Open House",
+            "Science Expo",
+            "Art Festival",
+            "Sports Carnival"
+        ],
+        "sportsFacilities": [
+            "Soccer",
+            "Volleyball",
+            "Badminton",
+            "Athletics"
+        ]
+    },
+    {
+        "collegeName": "Unity Institute",
+        "collegeImage": "https://example.com/unity_institute_image",
+        "collegeRating": 4.3,
+        "admissionDate": "Summer 2024",
+        "numberOfResearch": 80,
+        "events": [
+            "Welcome Party",
+            "Innovation Summit",
+            "Music Fest",
+            "Career Workshop"
+        ],
+        "sportsFacilities": [
+            "Cricket",
+            "Table Tennis",
+            "Swimming",
+            "Yoga"
+        ]
+    },
+    {
+        "collegeName": "Horizon University",
+        "collegeImage": "https://example.com/horizon_university_image",
+        "collegeRating": 4.6,
+        "admissionDate": "Fall 2024",
+        "numberOfResearch": 110,
+        "events": [
+            "Freshers' Bash",
+            "Tech Expo",
+            "Literary Fest",
+            "Sports Meet"
+        ],
+        "sportsFacilities": [
+            "Basketball",
+            "Tennis",
+            "Football",
+            "Athletics"
+        ]
+    },
+    {
+        "collegeName": "Elysium College",
+        "collegeImage": "https://example.com/elysium_college_image",
+        "collegeRating": 4.9,
+        "admissionDate": "Spring 2025",
+        "numberOfResearch": 150,
+        "events": [
+            "Drama Festival",
+            "Hackathon",
+            "Entrepreneurship Summit",
+            "Annual Sports Day"
+        ],
+        "sportsFacilities": [
+            "Cricket",
+            "Badminton",
+            "Swimming",
+            "Gymnastics"
+        ]
+    },
+    {
+        "collegeName": "Serenity Institute",
+        "collegeImage": "https://example.com/serenity_institute_image",
+        "collegeRating": 4.4,
+        "admissionDate": "Summer 2025",
+        "numberOfResearch": 70,
+        "events": [
+            "Cultural Extravaganza",
+            "Health and Wellness Fair",
+            "Academic Symposium"
+        ],
+        "sportsFacilities": [
+            "Football",
+            "Volleyball",
+            "Table Tennis",
+            "Karate"
+        ]
+    }
+]
